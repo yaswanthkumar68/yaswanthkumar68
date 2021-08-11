@@ -4,7 +4,7 @@
 
 * Passionate in building web applications and accepting new challenges.
 * Cuurently working on front end technologies ( JS, React, Redux ).
-* Learning backend technologies to build full stack applications.
+* Learning backend technologies to build full stack applications (MERN stack).
 * Interested in learning new technologies.
 
 ### Tech stacks
