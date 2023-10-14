@@ -9,8 +9,8 @@
 
 ### Tech stacks
 
-* JavaScript | ES6
-* HTML | CSS | React | Redux
+* JavaScript | Typescript | ES6
+* HTML | CSS | React | Redux | Web components | Lit | Node | Express | MongoDb
 
 ### Contact me
 
