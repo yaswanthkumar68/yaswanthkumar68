@@ -4,6 +4,7 @@
 
 * Passionate in building web applications and accepting new challenges.
 * Currently working on front end technologies ( JS, React, Redux ).
+* Building framework agnostic Web Components using Lit framework.
 * Learning backend technologies to build full stack applications (MERN stack).
 * Interested in learning new technologies.
 
